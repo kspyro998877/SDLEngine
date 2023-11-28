@@ -1,0 +1,3 @@
+G:\SDLProj\SDLEngine\SDLProj\x64\Debug\SDLProj.vcxproj.CopyComplete
+G:\SDLProj\SDLEngine\SDLProj\x64\Debug\SDLProj.exe
+G:\SDLProj\SDLEngine\SDLProj\x64\Debug\SDL2d.dll
